@@ -6,7 +6,7 @@
 
 <img width="1180" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard/assets/63532077/c9159583-f670-484b-915a-caa8a52ff3ed">
 
-<img width="1575" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard/assets/63532077/8df2a7c4-999b-4ec9-aaf3-efe16a03d5c1">
+<img width="1575" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard/assets/63532077/6033614b-9a9a-45ff-b03e-090e6cb5a6c0">
 
 = Table.AddColumn(#"Reordered Columns", "Time Buckets", each if [Days Open] >= 0 and [Days Open] <= 5 then "0-5 days"
 else if [Days Open] >= 6 and [Days Open] <= 10 then "6-10 days"
