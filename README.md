@@ -1,4 +1,4 @@
-# IT-Service-Desk-Dashboard
+# IT-Service-Desk-Dashboard in Power BI
 
 ### Introduction
 
