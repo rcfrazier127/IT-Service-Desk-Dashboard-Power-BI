@@ -4,15 +4,15 @@ The IT Service Desk Dashboard provides a comprehensive view of KPIs and insights
 
 ### Data Preparation
 
-This dataset was checked for blank/empty fields, errors and other discrepancies. Column headers were standardized, irrelevant columns were removed, and the satisfaction and severity columns were split to remove numeric values specifying tiers/score levels. The data only contains ticket creation dates between March and October of 2020. 
-
 <img width="900" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard/assets/63532077/69dc432e-ff20-4e7c-a728-da421d7bedf8">
+
+This dataset was checked for blank/empty fields, errors and other discrepancies. Column headers were standardized, irrelevant columns were removed, and the satisfaction and severity columns were split to remove numeric values specifying tiers/score levels. The data only contains ticket creation dates between March and October of 2020. 
 
 ### Data Model
 
-The data was modeled into 6 dimension pages, each linked to a central fact table. An additional table was created that contains custom columns for the buckets used to display tickets by open days. This column was made in Power Query using the M language and a sort order column was also created to allow for the buckets to be sorted properly in the bar graph visual.
-
 <img width="1180" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard/assets/63532077/c9159583-f670-484b-915a-caa8a52ff3ed">
+
+The data was modeled into 6 dimension pages, each linked to a central fact table. An additional table was created that contains custom columns for the buckets used to display tickets by open days. This column was made in Power Query using the M language and a sort order column was also created to allow for the buckets to be sorted properly in the bar graph visual.
 
 ### Dashboard Page
 
