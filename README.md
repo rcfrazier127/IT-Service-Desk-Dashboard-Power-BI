@@ -22,4 +22,4 @@ The dashboard page features visuals that are intended to provide an at-a-glance 
 
 ### Future Works
 
-An additional dashboard page that allows for the filtering of the IT service desk operations as of latest day within the dataset, which would simulate viewing the data as of the current day.
+An additional dashboard page that allows for the filtering of the IT service desk operations as of the latest day within the dataset, which would simulate viewing the data as of the current day.
