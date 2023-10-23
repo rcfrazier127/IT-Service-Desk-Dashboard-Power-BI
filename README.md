@@ -1,5 +1,7 @@
 # IT-Service-Desk-Dashboard
 
+### Introduction
+
 The IT Service Desk Dashboard provides a comprehensive view of KPIs and insights for monitoring and managing IT service operations. It is designed to help managers and stakeholders gain a quick and clear understanding of the service desk's performance and requestor satisfaction.
 
 ### Data Preparation
