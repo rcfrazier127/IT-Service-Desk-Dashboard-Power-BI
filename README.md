@@ -18,7 +18,7 @@ The data was modeled into 6 dimension pages, each linked to a central fact table
 
 ### Dashboard Page
 
-<img width="1575" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard/assets/63532077/6033614b-9a9a-45ff-b03e-090e6cb5a6c0">
+<img width="1576" alt="image" src="https://github.com/rcfrazier127/IT-Service-Desk-Dashboard-Power-BI/assets/63532077/0b63476d-2da2-40ff-a501-d61c54463273">
 
 The dashboard page features visuals that are intended to provide an at-a-glance of the service desk's operation performance and allows users to delve deeply into factors surrounding ticket status and requestor satisfaction ratings. The visuals within this dashboard provide an analysis of ticket volumes by ticket severity, issue category, ticket type, and the number of days tickets remain open. Users can utilize these insights to identify bottlenecks along the ticket resolution pipeline and understand this ultimately impacts requestor satisfaction. The distribution of these satisfaction scores is also visualized for further analysis. The most unique feature of this dashboard is the time series analysis of ticket volumes which has slicers that only filter the data within this specific visual. A slicer reset button is included in the top corner of the page.
 
